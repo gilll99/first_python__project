@@ -1,3 +1,1 @@
-import this
-
-print('Hello, World!')
+#alit 방향키로 줄 변경 가능
