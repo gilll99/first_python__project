@@ -27,12 +27,12 @@
 
 #for 반복문은 리스트의 길이만큼 반복하는 함수이다.
 #result 변수에 0을 대입하고, for 반복문을 사용해 a의 길이만큼 반복하며 i를 result에 더하는 함수이다.
-# t=input('Enter your name: ').split(" ")
-# a= list(map(int, t))
-# result = 0
-# for i in a:   
-#     result += i
-# print(result)      
+t=input('Enter your name: ').split(" ")
+a= list(map(int, t))
+result = 0
+for i in a:   
+    result += i
+print(result)      
 
 # =sum(list)로 리스트 합 퉁치기 가능
 # list1 = [1, 2, 3, 4, 5]
